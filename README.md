@@ -1,0 +1,2 @@
+# SGMOCR
+ocr
